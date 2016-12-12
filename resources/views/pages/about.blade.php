@@ -75,8 +75,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    About Me
-                    <p>I like to make Laravel web apps!</p>
+                    About {{$data['fullname']}}
+                    <p>{{$data['email']}}</p>
                 </div>
 
                 <div class="links">
