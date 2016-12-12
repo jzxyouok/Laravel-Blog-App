@@ -75,7 +75,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Contact Me
+                    <p>phchou220@gmail.com</p>
                 </div>
 
                 <div class="links">
