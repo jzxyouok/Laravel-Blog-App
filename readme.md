@@ -3,5 +3,5 @@
 * HTML5, CSS, Bootstrap, jQuery
 * Laravel 5.3 PHP Framework
 * MySQL Database
-* Package: LaravelCollective, Parsley(JS Library)
+* Package: LaravelCollective https://laravelcollective.com/ , Parsley(JS Library) http://parsleyjs.org/
 * 支援行動裝置（RWD設計）
